@@ -1,0 +1,5 @@
+*background:black
+*foreground:white
+URxvt.facename:DejaVu Sans Mono
+URxvt.facesize:20
+*locale:true
